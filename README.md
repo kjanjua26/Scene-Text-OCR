@@ -64,3 +64,12 @@ If you use any of the code, please consider citing the original papers.
   year={2017}
 }
 ```
+
+# Credits
+The code used in this repository is heavily borrowed from these repositories.
+
+<ol>
+  <li>https://github.com/AimeeKing/crnn-tensorflow</li>
+  <li>https://github.com/argman/EAST</li>
+  <li>https://github.com/bgshih/crnn</li>
+</ol>
