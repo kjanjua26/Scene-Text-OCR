@@ -12,3 +12,7 @@ For the detection part, I use EAST detector => <a href="https://github.com/argma
   <img src="/imgs/5.jpg" height="300" width="200" /> 
   <img src="/imgs/6.jpg" height="300" width="200" />
 </p>
+
+# Recognition
+
+For the recognition part, I have implemented the CRNN network in tensorflow and finetuned it on the data. The data can be downloaded from here => <a href="https://drive.google.com/file/d/1NPF1OSsaak7oUr7Hz-w9mZj0ePLzqqPz/view?usp=sharing">DOWNLOAD HERE</a>
