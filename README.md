@@ -15,6 +15,6 @@ For the detection part, I use EAST <a href="https://github.com/argman/EAST">CODE
         <img class="middle-img" src="/imgs/5.jpg"/ height="200" width="200" />
     </div>
     <div class="imageContainer">    
-        <img src="/imgs/5.jpg"/ height="200" width="200"/>
+        <img src="/imgs/6.jpg"/ height="200" width="200"/>
     </div>
 </div>
