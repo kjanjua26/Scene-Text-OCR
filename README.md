@@ -7,14 +7,8 @@ For the detection part, I use EAST <a href="https://github.com/argman/EAST">CODE
 
 ## Detection Results
 
-<div class="image123">
-    <div class="imageContainer" style="float: left;">
-        <img src="/imgs/4.jpg" height="200" width="200" />
-    </div>
-    <div class="imageContainer">
-        <img class="middle-img" src="/imgs/5.jpg"/ height="200" width="200" />
-    </div>
-    <div class="imageContainer">    
-        <img src="/imgs/6.jpg"/ height="200" width="200"/>
-    </div>
-</div>
+<p float="left">
+  <img src="/imgs/4.jpg" height="200" width="200" />
+  <img src="/imgs/5.jpg" height="200" width="200" /> 
+  <img src="/imgs/6.jpg" height="200" width="200" />
+</p>
