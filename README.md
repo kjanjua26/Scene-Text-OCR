@@ -8,7 +8,7 @@ For the detection part, I use EAST <a href="https://github.com/argman/EAST">CODE
 ## Detection Results
 
 <p float="left">
-  <img src="/imgs/4.jpg" height="200" width="200" />
-  <img src="/imgs/5.jpg" height="200" width="200" /> 
-  <img src="/imgs/6.jpg" height="200" width="200" />
+  <img src="/imgs/4.jpg" height="300" width="200" />
+  <img src="/imgs/5.jpg" height="300" width="200" /> 
+  <img src="/imgs/6.jpg" height="300" width="200" />
 </p>
