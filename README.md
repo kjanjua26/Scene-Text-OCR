@@ -36,3 +36,31 @@ The logs can also be viewed in tensorboard and trained models are saved.
 <strong>P.S. This is old code and is no longer maintained, works with specific tf and Python versions. You can check it in the code.</strong>
 
 In this case, the splits are provided and the dataset is used similarly. This is solely based on Bi-directional LSTMs + CTC layer as a loss. The results are not that good compared to CRNN specially in case of scene images. However, it works fairly well in case of cropped binarized words.
+
+# References
+If you use any of the code, please consider citing the original papers.
+
+<strong>CRNN Paper</strong>
+```
+@article{shi2016end,
+  title={An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition},
+  author={Shi, Baoguang and Bai, Xiang and Yao, Cong},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={39},
+  number={11},
+  pages={2298--2304},
+  year={2016},
+  publisher={IEEE}
+}
+```
+
+<strong>EAST Paper</strong>
+```
+@inproceedings{zhou2017east,
+  title={East: an efficient and accurate scene text detector},
+  author={Zhou, Xinyu and Yao, Cong and Wen, He and Wang, Yuzhi and Zhou, Shuchang and He, Weiran and Liang, Jiajun},
+  booktitle={Proceedings of the IEEE conference on Computer Vision and Pattern Recognition},
+  pages={5551--5560},
+  year={2017}
+}
+```
