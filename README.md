@@ -3,7 +3,7 @@ This repository contains code for Scene Text OCR following the famous CRNN model
 
 # Detection
 
-For the detection part, I use EAST <a href="https://github.com/argman/EAST">CODE HERE</a>. I finetune the network on products data.
+For the detection part, I use EAST detector => <a href="https://github.com/argman/EAST">CODE HERE</a>. I finetune the network on products data.
 
 ## Detection Results
 
