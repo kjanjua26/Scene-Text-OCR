@@ -31,3 +31,8 @@ The logs can also be viewed in tensorboard and trained models are saved.
   <img src="/imgs/2.png" height="300" width="200" /> 
   <img src="/imgs/3.png" height="300" width="200" />
 </p>
+
+## BDLSTM Case
+<strong>P.S. This is old code and is no longer maintained, works with specific tf and Python versions. You can check it in the code.</strong>
+
+In this case, the splits are provided and the dataset is used similarly. This is solely based on Bi-directional LSTMs + CTC layer as a loss. The results are not that good compared to CRNN specially in case of scene images. However, it works fairly well in case of cropped binarized words.
