@@ -28,6 +28,6 @@ The logs can also be viewed in tensorboard and trained models are saved.
 
 <p float="left">
   <img src="/imgs/1.jpg" height="300" width="200" />
-  <img src="/imgs/2.jpg" height="300" width="200" /> 
-  <img src="/imgs/3.jpg" height="300" width="200" />
+  <img src="/imgs/2.png" height="300" width="200" /> 
+  <img src="/imgs/3.png" height="300" width="200" />
 </p>
